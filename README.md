@@ -29,6 +29,7 @@ python recaptcha_solver.py
 ## Configuration
 - Ensure the OpenAI API key is correctly set in the script.
 - Modify the target URL as needed within the script.
+- Change TITLE if you have another browser language.
 
 ## Disclaimer
 This script is for educational purposes only. Automated CAPTCHA solving may violate the Terms of Service of some websites. Use responsibly.
